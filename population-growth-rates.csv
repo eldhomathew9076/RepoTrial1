@@ -1,4 +1,4 @@
-Entity,Code,Year,Population growth rate,Population growth rate (%) (Projected)
+Entity_Name,Code,Year,Population_growth_rate,Population_growth_rate (%) (Projected)
 Afghanistan,AFG,1950,1.275,
 Afghanistan,AFG,1951,1.36,
 Afghanistan,AFG,1952,1.374,
